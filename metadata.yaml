@@ -1,5 +1,5 @@
 _repo: The-Adventures-of-Old-Mr.-Toad_12630
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Cady, Harrison
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1970
     gutenberg_agent_id: '8456'
     url: http://www.gutenberg.org/2009/agents/8456
+covers:
+- cover_type: archival
+  image_path: 12630-h/images/cover.jpg
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -21,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
 description: Peter Rabbit and the other woodland animals discover that they have misjudged
   Old Mr. Toad, who also learns some important lessons.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12630#The-Adventures-of-Old-Mr.-Toad
 gutenberg_bookshelf:
 - Children's Book Series
 - Children's Literature
